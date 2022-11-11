@@ -28,7 +28,7 @@ In iOS, open the Settings app and choose Accessibility > Spoken Content > Voices
 The sample creates a host app to customize the list of voices available to the speech synthesis extension, using an App Group to share information between the host app and the audio unit extension. For more information about App Groups, see [`Configuring App Groups`][1].
 
 ``` swift
-let groupDefaults = UserDefaults(suiteName: "group.com.example.apple.samplecode.CustomSpeechSynthesizerExample")
+let groupDefaults = UserDefaults(suiteName: "WBC983MA2J.com.example.apple.samplecode.CustomSpeechSynthesizerExample")
 ```
 
 When the sample changes the list of available voices, it informs the system that they’re available for use by calling [`updateSpeechVoices()`][2].

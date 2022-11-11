@@ -12,7 +12,7 @@ struct ContentView: View {
     
     // MARK: - Public Properties
     
-    let groupDefaults = UserDefaults(suiteName: "group.com.example.apple.samplecode.CustomSpeechSynthesizerExample")
+    let groupDefaults = UserDefaults(suiteName: "WBC983MA2J.com.example.apple.samplecode.CustomSpeechSynthesizerExample")
     
     @State var voices: [String] = []
     @State var voiceName: String = ""

@@ -11,7 +11,7 @@ public class CustomSpeechSynthesizerExampleAudioUnit: AVSpeechSynthesisProviderA
     
     // MARK: - Private Properties
 
-    private let groupDefaults = UserDefaults(suiteName: "group.com.example.apple.samplecode.CustomSpeechSynthesizerExample")
+    private let groupDefaults = UserDefaults(suiteName: "WBC983MA2J.com.example.apple.samplecode.CustomSpeechSynthesizerExample")
     
     private var request: AVSpeechSynthesisProviderRequest?
     
