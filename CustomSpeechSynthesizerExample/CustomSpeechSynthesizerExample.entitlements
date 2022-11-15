@@ -5,6 +5,7 @@
 	<key>com.apple.security.application-groups</key>
 	<array>
 		<string>group.com.heed.apple.samplecode.CustomSpeechSynthesizerExample</string>
+		<string>group.MY8JKC2SMV.com.heed.apple-samplecode.CustomSpeechSynthesizerExample</string>
 	</array>
 </dict>
 </plist>

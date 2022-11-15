@@ -12,7 +12,8 @@ struct ContentView: View {
     
     // MARK: - Public Properties
     
-    let groupDefaults = UserDefaults(suiteName: "group.com.heed.apple.samplecode.CustomSpeechSynthesizerExample")
+//    let groupDefaults = UserDefaults(suiteName: "group.com.heed.apple.samplecode.CustomSpeechSynthesizerExample")
+    let groupDefaults = UserDefaults(suiteName: "group.MY8JKC2SMV.com.heed.apple-samplecode.CustomSpeechSynthesizerExample")
     
     @State var voices: [String] = []
     @State var voiceName: String = ""
